@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ise:home|Door43 (ise)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ise|d43-ise repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ise/archive/master.zip|d43-ise.zip]]
+
+**Recent Changes**
+{{changes>ns = ise}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ise|Ethnologue data]]
+
